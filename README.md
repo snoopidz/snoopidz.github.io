@@ -1,11 +1,4 @@
----
-name: <a href="https://snoopidz.github.io/">Home</a>
-about: Suggest an idea for this project
-title: 's'
-labels: 'n'
-assignees: ''
-
----
+<a href="https://snoopidz.github.io/">Home</a>
 
 
 <div class="d-flex info-b text-dark py-2 text-center justify-content-center">	
