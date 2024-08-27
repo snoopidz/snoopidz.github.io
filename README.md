@@ -3,7 +3,7 @@
 
 <div class="d-flex info-b text-dark py-2 text-center justify-content-center">	
 <a target="_blank" rel="nofollow noopener" class="text-decoration-none text-b" href="#">
-<i class="bi-heart-fill"></i> Download this Safelink
+<i class="bi-heart-fill"></i> Fined me
 </a>
 	&nbsp; or &nbsp;
 <a target="_blank" rel="nofollow noopener" class="text-decoration-none text-b" href="#">
