@@ -24,8 +24,67 @@ body {font-family: Lexend,sans-serif;font-size: 14px;background-color: #f6f6fa;}
   .darkMode .aAdmC img{background-image:linear-gradient(to top right,#363636,#717171);border-color:#252526;box-shadow: 0 1px 3px 0 rgb(0 0 0 / 11%), 0 2px 2px rgb(0 0 0 / 11%)} 
   .darkMode .aAdmB .btn{background-color:#8775f5} .darkMode .webStsC{background-color:#252526;box-shadow:0 5px 20px rgba(0,0,0,.2)} 
   .darkMode .webSts svg{stroke:#fefefe} @media screen and (min-width:641px){.aAdm .aAdmC{max-width:50%} .webSts{flex-direction:row} 
-   .webStsC{max-width:46%;margin:12px}} /*]]>*/</style> 
+   .webStsC{max-width:46%;margin:12px}} 
+  .bg-light {
+    --bs-bg-opacity: 1;
+    background-color: #f6f6fa;
+}
+  .py-2 {
+    padding-top: 0.5rem!important;
+    padding-bottom: 0.5rem!important;
+}
+  .border-bottom {
+    border-bottom: 1px solid #dee2e6!important;
+}
+  /*]]>*/
+</style> 
 <script>/*<![CDATA[*/ function webStats(json){document.write(parseInt(json.feed.openSearch$totalResults.$t,10))} /*]]>*/</script>
+
+<div class="widget PageList" data-version="2" id="PageList1">
+<nav class="py-2 bg-light border-bottom">
+<div class="container d-flex justify-content-center">
+<ul class="nav">
+<li class="nav-item">
+<a class="nav-link link-dark px-2" href="https://safelinkblg.blogspot.com">Home</a>
+</li>
+<li class="nav-item">
+<a class="nav-link link-dark px-2" href="https://safelinkblg.blogspot.com/p/terms-and-conditions.html">TOS</a>
+</li>
+<li class="nav-item">
+<a class="nav-link link-dark px-2" href="https://safelinkblg.blogspot.com/p/privacy-policy.html">Privacy Policy</a>
+</li>
+<li class="nav-item">
+<a class="nav-link link-dark px-2" href="https://safelinkblg.blogspot.com/p/site-issue-report.html">Site Issue Report</a>
+</li>
+<li class="nav-item">
+<a class="nav-link link-dark px-2" data-bs-target="#autosafelink" data-bs-toggle="modal" href="javascript:;">Auto Safelink</a>
+</li>
+</ul>
+</div>
+</nav>
+<div aria-hidden="true" aria-labelledby="autosafelinkLabel" class="modal fade" id="autosafelink" tabindex="-1">
+<div class="modal-dialog modal-dialog-centered">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="autosafelinkLabel">Auto Safelink Script</h5>
+<button aria-label="Close" class="btn-close" data-bs-dismiss="modal" type="button"></button>
+</div>
+<div class="modal-body">
+<p>
+											Insert this script for you main Blog
+										</p>
+<div class="my-4 border p-3">
+<pre><code class="user-select-all" id="autosafelinkCode"></code></pre>
+</div>
+<p class="alert alert-info">
+												script will replace all link from your main blog go to this safelink
+											</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
 <!--[ About Author Page by Fineshop ]--> <div class='aAthrP'> 
   <!--[ About Author ]-->
   <div class='aAdm'> <div class='aAdmC'>
@@ -70,10 +129,7 @@ body {font-family: Lexend,sans-serif;font-size: 14px;background-color: #f6f6fa;}
           Comments </div> <div class='statsNu'> 
         <!--[ Stats Number ]--> 
         <script src='/feeds/comments/default?alt=json-in-script&callback=webStats'></script> </div> </div> </div> </div> </div> 
----
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
+
 labels: ''
 assignees: ''
 
