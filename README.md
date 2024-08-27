@@ -7,7 +7,6 @@
       
    <body>
 <!-- header section start -->
-
 <div class="d-flex info-b text-dark py-2 text-center justify-content-center">	
 <a target="_blank" rel="nofollow noopener" class="text-decoration-none text-b" href="#">
 <i class="bi-heart-fill"></i> Download this Safelink
@@ -18,7 +17,8 @@
 </a>
 </div>
 
-	---
+
+---
 name: <a class="nav-link link-dark px-2" href="https://snoopidz.github.io/">Home</a>
 about: Describe this issue template's purpose here.
 title: 'Snoopidz'
