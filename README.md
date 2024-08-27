@@ -19,14 +19,6 @@ assignees: ''
 </div>
 
 
----
-name: 
-about: Describe this issue template's purpose here.
-title: 'Snoopidz'
-labels: '<a class="nav-link link-dark px-2" href="contact.html">Contact</a>'
-assignees: ''
----
-
 
 <!--[ About Author Page by Fineshop ]--> 
 	 Hello 
