@@ -1,6 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snoopidz)](https://github.com/snoopidz/github-readme-stats)
+
 <a href="https://snoopidz.github.io/">Home</a>
-
-
 <div class="d-flex info-b text-dark py-2 text-center justify-content-center">	
 <a target="_blank" rel="nofollow noopener" class="text-decoration-none text-b" href="#">
 <i class="bi-heart-fill"></i> Fined me
