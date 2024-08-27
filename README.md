@@ -135,16 +135,9 @@
           <!--[ Stats Name ]--> 
           Comments </div> <div class='statsNu'> 
         <!--[ Stats Number ]--> 
-        <script src='/feeds/comments/default?alt=json-in-script&callback=webStats'></script> </div> </div> </div> </div> </div> 
 
-      <!-- testimonial section end -->
-      <!-- footer section start -->
+			
 
-	   
-      <!-- footer section end -->
-      <!-- copyright section start -->
-     <footer class='text-center mb-3'>				
-<p class='m-0'>Copyright &#169;</p>
 <a class='text-decoration-none' href='https://github.com/snoopidz' rel='nofollow noopener' target='_blank'>
 <i class='bi bi-layout-text-window-reverse'/> </i> by snoopidz (v2.2)</a> 
 </footer>
