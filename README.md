@@ -10,9 +10,6 @@
 	<i class="bi bi-telegram"></i> Join Telegram
 </a>
 </div>
-<!--[ About Author ]--> 
-	 Hello 
-  <!--[ About Author ]-->
   <div class='aAdm'> <div class='aAdmC'>
   <!--[ Author Profile Picture ]--> 
     <img alt='alt_here' src='https://i.imgur.com/Bkltse9.jpeg' /> 
