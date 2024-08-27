@@ -1,7 +1,7 @@
 ---
 name: <a href="https://snoopidz.github.io/">Home</a>
 about: Suggest an idea for this project
-title: ''
+title: '<a class="nav-link link-dark px-2" href="contact.html">Contact</a>'
 labels: ''
 assignees: ''
 
