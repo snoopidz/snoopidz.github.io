@@ -1,12 +1,8 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <!-- basic -->
 
-
-      
-   <body>
-<!-- header section start -->
+ <body>
 <div class="d-flex info-b text-dark py-2 text-center justify-content-center">	
 <a target="_blank" rel="nofollow noopener" class="text-decoration-none text-b" href="#">
 <i class="bi-heart-fill"></i> Download this Safelink
@@ -24,7 +20,6 @@ about: Describe this issue template's purpose here.
 title: 'Snoopidz'
 labels: '<a class="nav-link link-dark px-2" href="contact.html">Contact</a>'
 assignees: ''
-
 ---
 
 <!--[ About Author Page by Fineshop ]--> 
