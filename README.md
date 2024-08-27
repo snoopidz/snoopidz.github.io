@@ -17,9 +17,7 @@
 	<i class="bi bi-telegram"></i> Join Telegram
 </a>
 </div>
-<div class="widget PageList" data-version="2" id="PageList1">
-<nav class="py-2 bg-light border-bottom">
-<div class="container d-flex justify-content-center">
+
 	---
 name: <a class="nav-link link-dark px-2" href="https://snoopidz.github.io/">Home</a>
 about: Describe this issue template's purpose here.
@@ -29,10 +27,8 @@ assignees: ''
 
 ---
 
-</div>
-
 <!--[ About Author Page by Fineshop ]--> 
-	   <div class='aAthrP'> 
+	 Hello 
   <!--[ About Author ]-->
   <div class='aAdm'> <div class='aAdmC'>
   <!--[ Author Profile Picture ]--> 
