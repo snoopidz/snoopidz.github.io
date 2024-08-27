@@ -1,5 +1,5 @@
 ---
-name: <a class="nav-link link-dark px-2" href="https://snoopidz.github.io/">Home</a>
+name: <a href="https://snoopidz.github.io/">Home</a>
 about: Suggest an idea for this project
 title: ''
 labels: ''
