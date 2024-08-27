@@ -2,8 +2,7 @@
 name: <a href="https://snoopidz.github.io/">Home</a>
 about: Suggest an idea for this project
 title: <a class="nav-link link-dark px-2" href="https://snoopidz.github.io/contact.html">Contact</a>
-labels: '<a class='text-decoration-none' href='https://github.com/snoopidz' rel='nofollow noopener' target='_blank'>
-<i class='bi bi-layout-text-window-reverse'/> </i> by snoopidz (v2.2)</a>'
+labels: '<i class='bi bi-layout-text-window-reverse'/> </i> by snoopidz (v2.2)'
 assignees: ''
 
 ---
