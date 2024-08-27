@@ -10,10 +10,7 @@
 	<i class="bi bi-telegram"></i> Join Telegram
 </a>
 </div>
-
-
-
-<!--[ About Author Page by Fineshop ]--> 
+<!--[ About Author ]--> 
 	 Hello 
   <!--[ About Author ]-->
   <div class='aAdm'> <div class='aAdmC'>
