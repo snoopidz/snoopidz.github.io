@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: <a class="nav-link link-dark px-2" href="https://snoopidz.github.io/">Home</a>
 about: Suggest an idea for this project
 title: ''
 labels: ''
@@ -20,7 +20,7 @@ assignees: ''
 
 
 ---
-name: <a class="nav-link link-dark px-2" href="https://snoopidz.github.io/">Home</a>
+name: 
 about: Describe this issue template's purpose here.
 title: 'Snoopidz'
 labels: '<a class="nav-link link-dark px-2" href="contact.html">Contact</a>'
