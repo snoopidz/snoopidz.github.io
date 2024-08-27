@@ -149,15 +149,6 @@
 <i class='bi bi-layout-text-window-reverse'/> </i> by snoopidz (v2.2)</a> 
 </footer>
       <!-- copyright section end -->
-      <!-- Javascript files-->
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0-beta1/js/bootstrap.min.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-      <script src="https://cdn.jsdelivr.net/gh/snoopidz/beja@master/crypto-js.min.js"></script>
-      <script src="https://cdn.jsdelivr.net/gh/snoopidz/beja@master/apps.js"></script>
-      <script src="https://cdn.jsdelivr.net/gh/snoopidz/beja@master/Adblock.js"></script>
-      <!-- sidebar -->
-      <script src="https://cdn.jsdelivr.net/gh/snoopidz/beja@master/app-h.js"></script>
-      <script src="https://cdn.jsdelivr.net/gh/snoopidz/beja@master/app-p.js"></script>
-      <!-- javascript --> 
+
    </body>
 </html>
