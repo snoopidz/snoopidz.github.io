@@ -6,7 +6,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <!-- site metas -->
-      <title>About</title>
+      <title>About - Page</title>
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="Benabid Nadjib">
@@ -91,15 +91,12 @@
 </nav>
 </div>
 
-<!--[ About Page ]--> 
+<!--[ 404 Page ]--> 
 <section class="container d-flex flex-column h-100 my-3" style="height: auto !important;">
 <div class="row justify-content-center my-auto" style="height: auto !important;">
 <div class="col-12 col-md-7" style="height: auto !important;">
-
-
--_-
-
-
+<p class="fs-2 fw-bold">This page not use On Website :)</p>
+<a class="text-decoration-none fw-bold" href="https://snoopidz.github.io/">Back to Home</a>
 </div>
 
 </article>
@@ -107,7 +104,7 @@
 </div>
 </section>
 
-<!-- About Page end -->
+<!-- 404 Page end -->
 
 <!-- footer section start -->
 
