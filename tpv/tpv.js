@@ -1,5 +1,6 @@
 const typewriterText = document.querySelector(".typewriter");
 const phrases = [
+  "السلام عليكم ",
   "Salut ",
   "Hello 👋",
   "Bonjour 👋",
