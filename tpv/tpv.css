@@ -5,7 +5,6 @@
   white-space: nowrap;
   margin: 0;
   font-size: 24px;
-  font-family: monospace;
   animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
 }
 
