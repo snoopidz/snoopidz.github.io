@@ -28,6 +28,54 @@
    </head>
        <style>
   /*<![CDATA[*/ 
+	       .my-contact-form{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+}
+.my-contact-form form{
+  	width: 100%
+}
+.my-contact-form-label{
+    display: block;
+    font-weight: 600;
+    font-size: 16px;
+    margin: 12px 0;
+}
+.my-contact-form-input{
+    width: 100%;
+    padding: 12px 0px !important;
+    text-indent: 10px !important;
+    border-radius: 6px !important;
+    border: 1px solid #e0e0e0 !important;
+    background: white !important;
+    font-weight: 500 !important;
+    font-size: 16px !important;
+    color: #6b7280 !important;
+    outline: none !important;
+    resize: none !important;
+}
+.my-contact-form-input:focus{
+  border-color: #6a64f1 !important;
+  box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.05) !important;
+}
+.my-contact-form-btn {
+    text-align: center;
+    font-size: 16px;
+    border-radius: 6px;
+    padding: 14px 32px;
+    border: none;
+    font-weight: 600;
+    background-color: #6a64f1;
+    color: white;
+    width: 100%;
+    cursor: pointer;
+  	margin-top: 12px;
+}
+.my-contact-form-btn:hover {
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.05);
+}
   /* About Author Page by Fineshop */ 
   .aAthrP{font-size:0.9rem;color:#08102b} 
   .aAthrP svg{width:18px;height:18px;fill:none !important;stroke:#fefefe;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5;margin-right:7px} 
@@ -52,8 +100,9 @@
   .darkMode .aAdmB .btn{background-color:#8775f5} 
   .darkMode .webStsC{background-color:#252526;box-shadow:0 5px 20px rgba(0,0,0,.2)} 
   .darkMode .webSts svg{stroke:#fefefe} 
-@media screen and (min-width:641px){.aAdm .aAdmC{max-width:50%} .webSts{flex-direction:row} 
-   .webStsC{max-width:24%;margin:12px}} 
+@media screen and (min-width:641px){.aAdm .aAdmC{max-width:50%} 
+.webSts{flex-direction:row} 
+   .webStsC{max-width:24%;margin:12px} } 
   /*]]>*/
 </style>  
    <body>
@@ -102,12 +151,34 @@
 <i class="bi-flag-fill" style="color: #3949ab; font-size: 4rem;"></i>
 </div>
 
-<br>
-<p>	Thank you for visiting this page. Previously I as the owner apologize if you experience a problem while using this website. For mutual convenience, please state your input regarding problems encountered while accessing this website.  	
-	<a data-bs-target="#modalContact" data-bs-toggle="modal" href="javascript:;">Contact Me</a></p>  
-	<p>Did you not find the article you are looking for (url error 404) or is the website display problematic? Please contact us and we will immediately fix the problem you are experiencing.</p>
-<br>
-
+<div class="my-contact-form">
+  <form
+    action="bejachaoui@email.com"
+    method="POST"
+    id="contact-form"
+  >
+    <div>
+      <label class="my-contact-form-label" for="name">Name:</label>
+      <input class="my-contact-form-input" type="text" id="name" name="name" required />
+    </div>
+    <div>
+      <label class="my-contact-form-label" for="email">Email:</label>
+      <input class="my-contact-form-input" type="email" id="email" name="email" required />
+    </div>
+    <div>
+      <label class="my-contact-form-label" for="message">Message:</label>
+      <textarea class="my-contact-form-input" id="message" name="message" required></textarea>
+    </div>
+    <input type="hidden" name="_captcha" value="false" />
+    <input type="hidden" name="_template" value="table" />
+    <input
+      type="hidden"
+      name="_next"
+      value="https://www.bloggerboosted.com/"
+    />
+    <button class="my-contact-form-btn" type="submit">Send</button>
+  </form>
+</div>
 </article>
 </div>
 </div>
